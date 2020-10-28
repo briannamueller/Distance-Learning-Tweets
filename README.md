@@ -5,3 +5,4 @@
 ##### 1. Data cleaning / transformation 
 ##### 2. Exporatory Data Analysis
 ##### 3. Sentiment Analysis
+##### 4. Topic Modeling - Latent Dirichlet allocation (LDA)
