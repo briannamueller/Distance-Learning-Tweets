@@ -10,10 +10,11 @@ As schools transitioned to online learning due to COVID-19, there was a wide ran
 ##### 3. Sentiment Analysis
 ##### 4. Topic Modeling - Latent Dirichlet allocation (LDA)
 
-See below for some of the findings.
+See below for some of the findings.<br><br>
 
-
-
-
-
+Wordcloud of more frequently used words
 <img width="643" alt="Screen Shot 2020-10-28 at 7 49 18 PM" src="https://user-images.githubusercontent.com/54564733/97512193-e97b8400-1956-11eb-9009-e51974a262d6.png">
+
+##### Distribution of Positive and Negative Tweets
+There were more positive tweets about distance learning than negative tweets about distance learning 
+
