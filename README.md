@@ -10,13 +10,20 @@ As schools transitioned to online learning due to COVID-19, there was a wide ran
 
 See some of the findings below.<br><br>
 
-### Wordcloud of most frequently used words
+### Wordcloud of the most frequently used words
 
 <br><img width="643" alt="Screen Shot 2020-10-28 at 7 49 18 PM" src="https://user-images.githubusercontent.com/54564733/97512193-e97b8400-1956-11eb-9009-e51974a262d6.png"><br><br>
 
 ### Distribution of Positive and Negative Tweets
 There were more positive tweets about distance learning than negative tweets about distance learning.<br>
-<img width="558" alt="Screen Shot 2020-10-28 at 8 14 53 PM" src="https://user-images.githubusercontent.com/54564733/97513882-5d1f9000-195b-11eb-8a4b-ba96a0f138f3.png">
+<img width="558" alt="Screen Shot 2020-10-28 at 8 14 53 PM" src="https://user-images.githubusercontent.com/54564733/97513882-5d1f9000-195b-11eb-8a4b-ba96a0f138f3.png"><br><br>
+
+Nuetral tweets get more retwets than highly negative or positve tweets
 
 
+On average, positive tweets are more subjective than negative tweets.
+
+Word cloud of the most commom words found in positive tweets
+
+Word cloud of the most common words found in negative tweets
 
