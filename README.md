@@ -25,6 +25,8 @@ On average, positive tweets are more subjective than negative tweets.
 <br><img width="506" alt="Screen Shot 2020-11-02 at 3 15 02 PM" src="https://user-images.githubusercontent.com/54564733/97919983-565b9900-1d1e-11eb-8abf-7f08a86170da.png"><br><br>
 
 Word cloud of the most commom words found in positive tweets
+<br><img width="714" alt="Screen Shot 2020-11-02 at 3 20 34 PM" src="https://user-images.githubusercontent.com/54564733/97920420-0d581480-1d1f-11eb-971e-e50d2a3c9ff1.png"><br><br>
+
 
 Word cloud of the most common words found in negative tweets
 
