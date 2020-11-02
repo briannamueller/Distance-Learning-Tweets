@@ -18,7 +18,7 @@ There were more positive tweets about distance learning than negative tweets abo
 <img width="558" alt="Screen Shot 2020-10-28 at 8 14 53 PM" src="https://user-images.githubusercontent.com/54564733/97513882-5d1f9000-195b-11eb-8a4b-ba96a0f138f3.png"><br><br>
 
 Nuetral tweets about distance learning get more retwets than highly negative or positve tweets about distance learning.
-
+<img width="510" alt="Screen Shot 2020-11-02 at 2 43 58 PM" src="https://user-images.githubusercontent.com/54564733/97917284-e0553300-1d19-11eb-8b76-26b45b705ea6.png"><br><br>
 
 
 On average, positive tweets are more subjective than negative tweets.
