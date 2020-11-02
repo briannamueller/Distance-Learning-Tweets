@@ -15,10 +15,10 @@ As schools transitioned to online learning due to COVID-19, there was a wide ran
 
 ### Distribution of Positive and Negative Tweets
 There were more positive tweets about distance learning than negative tweets about distance learning.<br>
-<img width="558" alt="Screen Shot 2020-10-28 at 8 14 53 PM" src="https://user-images.githubusercontent.com/54564733/97513882-5d1f9000-195b-11eb-8a4b-ba96a0f138f3.png"><br><br>
+<br><img width="558" alt="Screen Shot 2020-10-28 at 8 14 53 PM" src="https://user-images.githubusercontent.com/54564733/97513882-5d1f9000-195b-11eb-8a4b-ba96a0f138f3.png"><br><br>
 
 Nuetral tweets about distance learning get more retwets than highly negative or positve tweets about distance learning.<br>
-<img width="442" alt="Screen Shot 2020-11-02 at 2 47 28 PM" src="https://user-images.githubusercontent.com/54564733/97917657-68d3d380-1d1a-11eb-8e1b-c51657c08920.png"><br><br>
+<br><img width="442" alt="Screen Shot 2020-11-02 at 2 47 28 PM" src="https://user-images.githubusercontent.com/54564733/97917657-68d3d380-1d1a-11eb-8e1b-c51657c08920.png"><br><br>
 
 
 On average, positive tweets are more subjective than negative tweets.
