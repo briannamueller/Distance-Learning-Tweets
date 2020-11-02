@@ -1,6 +1,6 @@
 # Distance Learning Tweets
 
-As schools transitioned to online learning due to COVID-19, there was a wide range of responses from teachers, parents, and students. Some students found online classes condusive to their learning style while other students struggled to adapt. Through various social media platforms, people have been able to share their varying thoughts and emotions towards virtual learning. As a student who experienced the transition, I found some aspects on online classes to beneficial such as the increased scheduling flexability. However, many of my peers and professors have expressed opposing views. When I came across a dataset of distance learning related Tweets, I was interesting to see the distribution of positive and negative feelings across the world. In this analysis, I use text mining techniques to explore sentiment towards online learning by calculating tweet polarities. I also use the topic modeling method Latent Dirichlet Allocation (LDA) to discover common themes across the tweets. 
+As schools transitioned to online learning due to COVID-19, there was a wide range of responses from teachers, parents, and students. Some students found online classes condusive to their learning style while other students struggled to adapt. Through various social media platforms, people have been able to share their varying thoughts and emotions towards virtual learning. As a student who experienced the transition, I found some aspects of online classes beneficial such as the increased scheduling flexability. However, many of my peers and professors have expressed opposing views. When I came across a dataset of distance learning related Tweets, I was interesting to see the distribution of positive and negative feelings across the world. In this analysis, I use text mining techniques to explore sentiment towards online learning by calculating tweet polarities. I also use the topic modeling method Latent Dirichlet Allocation (LDA) to discover common themes across the tweets. 
 
 ### Objective : Perform sentiment analysis on tweets with keywords that relate to online learning.
 #### 1. Data cleaning / transformation 
@@ -17,7 +17,7 @@ As schools transitioned to online learning due to COVID-19, there was a wide ran
 There were more positive tweets about distance learning than negative tweets about distance learning.<br>
 <br><img width="558" alt="Screen Shot 2020-10-28 at 8 14 53 PM" src="https://user-images.githubusercontent.com/54564733/97513882-5d1f9000-195b-11eb-8a4b-ba96a0f138f3.png"><br><br>
 
-Nuetral tweets about distance learning get more retwets than highly negative or positve tweets about distance learning.<br>
+Nuetral tweets about distance learning get more retweets than highly negative or positve tweets about distance learning.<br>
 <br><img width="442" alt="Screen Shot 2020-11-02 at 2 47 28 PM" src="https://user-images.githubusercontent.com/54564733/97917657-68d3d380-1d1a-11eb-8e1b-c51657c08920.png"><br><br>
 
 
