@@ -31,3 +31,4 @@ Word cloud of the most commom words found in positive tweets
 Word cloud of the most common words found in negative tweets
 <br><img width="693" alt="Screen Shot 2020-11-02 at 3 20 56 PM" src="https://user-images.githubusercontent.com/54564733/97920486-252f9880-1d1f-11eb-9c04-01647724b3f1.png"><br><br>
 
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
